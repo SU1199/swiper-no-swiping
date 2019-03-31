@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/su1199/projects/absurd_startups/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/su1199/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/ba8644bef63d5449bedf21a8faf350d0/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

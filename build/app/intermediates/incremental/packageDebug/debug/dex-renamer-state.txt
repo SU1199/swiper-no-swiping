@@ -1,0 +1,4 @@
+#Mon Apr 01 00:34:49 IST 2019
+base.0=/home/su1199/projects/swiper-no-swiping/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

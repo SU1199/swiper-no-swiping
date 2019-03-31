@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/su1199/projects/swiper-no-swiping/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/home/su1199/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/151104608a662c6105cd0f1b9e4704bc/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/su1199/projects/absurd_startups/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/home/su1199/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/151104608a662c6105cd0f1b9e4704bc/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    }
+                }
+            ]
+        }
+    ]
+}

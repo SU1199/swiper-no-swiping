@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/su1199/projects/swiper-no-swiping/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/su1199/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/3378b5c0f73b4eb72f5cbc82054e53e7/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/su1199/projects/absurd_startups/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/su1199/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/3378b5c0f73b4eb72f5cbc82054e53e7/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
